@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Forever logo" width="240" />
+<img src="./frontend/src/assets/fassets/logo.png" alt="Forever logo" width="240" />
 
 # Forever
 
